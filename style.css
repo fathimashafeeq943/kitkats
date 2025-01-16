@@ -1,0 +1,139 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#image
+{
+    width: 80px;
+    height: 56px;
+}
+.nav-item{
+    margin-left: 20px;
+    
+}
+a{
+    color:white;
+    font-size: 80px;
+}
+a:hover {
+    text-decoration: underline;
+  }
+  .gallary{
+    width: 100%;
+    height: 700px;
+    background-image: url("pic kit/abstract-background-design-hd-hardlight-alphabet-red-color_851755-119232.jpg");
+  }
+  #video{
+    width: 400px;
+    height: 45px;
+  }
+  #img2{
+    width: 400px;
+    height: 265px;
+  }
+  .kitkat{
+    width: 100%;
+    height: 450px;
+    background-color: #960917;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  h3{
+    margin-top: 40px;
+    text-align: center;
+  }
+  #roun{
+        width: 50px;
+        height: 35px;
+  }
+  .sect{
+    background-color: #a00616;
+    height: 500px;
+    width: 100%;
+  }
+ .h3 {
+  line-height: 18px;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 5px 10px;
+    background:rgb(199, 13, 13);
+    text-decoration: none;
+    margin-bottom: 100px;
+  }
+  #about{
+    padding: 80px 0;
+    color: #ababab;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+/*-------about-section----*/
+#sect-about{padding: 80px o;
+  color: white;
+  background-color: rgb(199, 13, 13);;
+}
+#row-2{
+  display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#img-2{
+  height: 400px;
+  width: 400px;
+  border-radius: 15px;
+  margin-top: 130px;
+  
+}
+.about-col-1{
+  flex-basis: 40%;
+}
+.about-col-1 {
+  margin-top: 25%;
+  border-radius: 15px;
+}
+.about-col-2{
+  flex-basis: 60%;
+}
+.sub-title{
+   font-size: 30px;
+   font-weight: 200;
+   color: white;
+   margin-top: 5px;
+}
+h3{
+  font-size:25px ;
+  font-weight:150px ;
+}
+#row-3{
+  
+  float: left;
+    
+    
+}
+.kit-img{
+  height: 255px;
+    width: 274px;
+}
+.butt{
+  height: 74px;
+    width: 251px;
+  color:red;
+  align-items: center;
+  background-color: white;
+  
+}
+.footer-map{
+  background-image: url("pic kit/stock-photo-world-map-textures-and-backgrounds-for-your-design-291982652.jpg");
+  background-color: #960917;
+}
+.foot{
+  background-color: rgb(199, 13, 13);
+  width: 100%;
+}
